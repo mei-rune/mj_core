@@ -1,0 +1,12 @@
+[submodule "deps/yajl"]
+	path = deps/yajl
+	url = https://github.com/lloyd/yajl.git
+[submodule "deps/libevent2"]
+	path = deps/libevent2
+	url = https://github.com/libevent/libevent.git
+[submodule "deps/libevhtp"]
+	path = deps/libevhtp
+	url = https://github.com/runner-mei/libevhtp.git
+[submodule "deps/openssl"]
+	path = deps/openssl
+	url = https://github.com/luvit/openssl.git

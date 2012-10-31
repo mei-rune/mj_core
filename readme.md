@@ -1,0 +1,1 @@
+﻿json rpc = libevent2 + libevhtp + yajl
